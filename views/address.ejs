@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ANDO</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="stylesheet" type="text/css" media="screen" href="main.css" /> -->
+    <script src="/scripts/address.js"></script>
+</head>
+<body>
+    i am from address.ejs
+    <button onclick="newaddress()">Add Address</button>
+    <form method="POST" action="/service/time/address/confirm">
+        <% for(var value in saddress) { %>
+            <input type="radio" name="saddress" id="saddress" value=" <%= saddress[value] %> "><%= saddress[value] %><br> 
+        <% } %>
+        <input type="submit" value="submit">
+    </form>
+    <form method="post" action="/service/time/address" id="newaddressform" name="newaddressform">
+    <input type="hidden" name="servicedate" id="servicedate" value=" <%= odate %> ">
+    <input type="hidden" name="servicetime" id="servicetime" value=" <%= otime %> ">
+    </form>
+    
+</body>
+</html>

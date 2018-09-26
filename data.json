@@ -1,0 +1,3699 @@
+{
+  "phone" : {
+    "Apple" : {
+      "iPhone4" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPhone4S" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPhone5|5C" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPhone5S|SE" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPhone6" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPhone6Plus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPhone6s" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPhone6sPlus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPhone7" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPhone7Plus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPhone8" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPhone8Plus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPhoneX" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPadmini" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPadAir2" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPadAir" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPad4" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPad3" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "iPad2" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      }
+    },
+    "Asus" : {
+      "Zenfone2" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Zenfone2laser" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Zenfone5" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "ZenfoneSelfie" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Coolpad" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Cool1" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Daizen" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Mega2point5D" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Note3" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Note3lite" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Note5" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Note5Lite" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      }
+    },
+    "Gionee" : {
+      "A1" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "F103" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "S6" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "S6S" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Splus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "S7" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      }
+    },
+    "Huawei" : {
+      "Honor6" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Honor6X" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Honor7" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Honor7X" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Honor8" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Honor8Lite" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Honor8Pro" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Honor9" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Honor9i" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "Honor9Lite" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      }
+    },
+    "Leeco" : {
+      "LE1S" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "LE2" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+    "LEMax" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      }
+    },
+    "Lenovo" : {
+      "K3note" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "K4note" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "K5note" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "K6note" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "K6power" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "K8note" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "K8plus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "ZukZ1" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "ZukZ2plus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "Phab2" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "Phab2plus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      }
+    },
+    "Motorola" : {
+      "MotoC" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoCplus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoE2" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoE3power" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoE4" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoE4plus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoG2" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoG3" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoG4plus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoGturbo" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoG3turbo" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoG5" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoG5S" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoG5plus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoG5sPlus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoM" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoX2ndGen" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoX4" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoXplay" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoXstyle" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoZ" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoZplay" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "MotoZ2play" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      }
+    },
+    "Nexus" : {
+      "Nexus4" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "Nexus5" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "Nexus5X" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "Nexus6" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "Nexus6P" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      }
+    },
+    "OnePlus" : {
+      "OnePlus1" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "OnePlus2" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "OnePlus3" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "OnePlus3T" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "OnePlusX" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "OnePlus5" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "OnePlus5T" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      }
+    },
+    "Oppo" : {
+      "A37F" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "A57" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "F1S" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "F1Plus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "F3Plus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      }
+    },
+    "Vivo" : {
+      "V5plus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "V5lite" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "V7plus" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "V7" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "Y21L" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "Y51" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      },
+      "Y55L" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      }
+    }
+  }
+}
+

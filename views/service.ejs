@@ -1,0 +1,16 @@
+<!Doctype html>
+<head>
+    <title>Ando</title>
+    <script src="https://www.gstatic.com/firebasejs/5.5.0/firebase.js"></script>
+    <script src="./scripts/firebase.js"></script>
+    <script src="./scripts/service.js"></script>    
+</head>
+<body>
+    <% include includes/header.ejs %>
+    <p>I am from service.ejs</p>
+    <% include includes/bill.ejs %>
+    <form method="post" action="/service/time">
+        <input type="submit" name="booknow" id="booknow" value="Book now">       
+    </form>
+</body>
+</html>

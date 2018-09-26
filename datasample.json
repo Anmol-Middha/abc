@@ -1,0 +1,76 @@
+{
+  "phone" : {
+    "Apple" : {
+      "iPhone4" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      }
+    },
+    "Apple" : {
+      "iPhone4" : {
+        "Battery" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Camera" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Charging" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Dead" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Others" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Speaker" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Temperedglass" : {
+          "app" : 1500,
+          "market" : 2000
+        },
+        "Touch" : {
+          "app" : 1500,
+          "market" : 2000
+        }
+      }
+    }
+  }
+}
